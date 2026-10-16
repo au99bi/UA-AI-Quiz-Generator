@@ -1,1 +1,2 @@
-# UA-AI-Quiz-Generator
+# quizgen-ai
+AI-powered quiz generator from uploaded documents
